@@ -89,8 +89,16 @@ But we tried to write a lot of code and modify the circuitry in a way that didn'
 In order to better complete the project within the specified time. We redesigned the circuit diagram again. And - welding, testing. Finally, our new solution is successful!!
 <div align=center>
 <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/circuit%20model1.jpg" width="400" height="350">            <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/circuit%20model2.jpg" width="400" height="350">
+</div>    
+  
+* Coding
+In the team, I was mainly responsible for writing pressure sensors and controlling three servo rotating mechanical branches. According to the principle of the teacher in class to write in the continuous test and adjustment of rotation Angle and value.
+  
+ <div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/d15ec75fd0a7f1c8d55994fbb98782fd.jpg" width="300" height="200">   <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/e00f9f2a7a9ac1b0a513fb9dd3539e66.jpg" width="300" height="200">    <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/f914f4ec6af53dd45e58d0d0e1d0d885.jpg" width="300" height="200">  
 </div>  
   
+
 
 ## WEEK 9
 
