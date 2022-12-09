@@ -7,7 +7,7 @@ Final Viedo：https://youtu.be/RirvhJJkZnI
 
 
 
-## WEEK 6
+# WEEK 6
 This week we had a group discussion according to the topic requirements given by the teacher. Each team member made her own preliminary presentation of the project.
 * My idea one:
 <Future Plant>
@@ -30,13 +30,13 @@ This project is about emotional visualization. The increasing number of patients
   
 
 
-## WEEK 7
+# WEEK 7
 After the report from the team members last week, we decided to choose future plants as our final topic and tried to combine the diversified forms of plants.
   <div align=center>
 <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/week6-1.jpg" width="500" height="300"><img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/week6-2.jpg" width="500" height="300">
 </div>
   
-* Sketch
+### Sketch
 According to the concept and research background, we drew a mind map and a rough sketch of the device
  
 <div align=center>
@@ -49,7 +49,7 @@ According to the concept and research background, we drew a mind map and a rough
 <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/IMG_1766.JPG" width="1000" height="600">  
 </div>  
   
-* Modeling  
+### Modeling  
   
   I used nomad to draw the 3d model
   
@@ -59,7 +59,7 @@ According to the concept and research background, we drew a mind map and a rough
 </div>  
   
   
-* The problem
+### The problem
 We had a problem making the mechanical flowers. We don't know which flower form can be expressed. We don't know how to use the output device in our design. So we made an appointment with Matt's toturial to study. Matt not only provided a new idea for our output device: using a telescopic rod. It also helped us solve the expression form of mechanical flowers.  
   
 <div align=center>
@@ -72,10 +72,11 @@ We had a problem making the mechanical flowers. We don't know which flower form 
 </div>  
   
   
-## WEEK 8
+# WEEK 8
 > It's been a very difficult week 
 >> Circuit testing and welding is our main work. 
  
+### Circuit And Welding
 Since we had a lot of output devices, we borrowed PCA9685 from the professor to control multiple servo to work together. 
   
 <div align=center>
@@ -92,7 +93,7 @@ In order to better complete the project within the specified time. We redesigned
 </div>      
   
   
-* Coding  
+### Coding  
   
 In the team, I was mainly responsible for writing pressure sensors and controlling three servo rotating mechanical branches. According to the principle of the teacher in class to write in the continuous test and adjustment of rotation Angle and value.
   
@@ -105,22 +106,46 @@ In the team, I was mainly responsible for writing pressure sensors and controlli
     
   
   
-* Laser Cutting  
+### Laser Cutting  
   
 After the circuit is completed. We split up the work two of us buy the equipment and two of us do the laser cutting. After weighing the output effect, we considered choosing laser cutting to produce the model effect. In the school workshop, I learned how to use the laser cutting machine and printed out all the parts we needed.
   
 <div align=center>
 <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/IMG_9796.JPG" width="280" height="300">   <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/IMG_9789.JPG" width="400" height="300">    <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/IMG_9790.JPG" width="280" height="300">  
 </div>  
-https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/IMG_9796.JPG
+
   
 
 
-## WEEK 9
+# WEEK 9
 
+In the last week, we mainly made the overall appearance and integrated the device. 
+### Appearance 
+To achieve a more realistic tree effect. We twisted tinfoil together as branches of a tree and used latex to glue kitchen paper on top to create texture. Then acrylic pigment was used to draw the changes in light and shade of the branches.   
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/9-1.jpg" width="400" height="350">            <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/9-4.jpg" width="400" height="350">
+</div>      
+  
+### Circuit integration & Testing 
+The circuit is fused with the device. The modification will affect the decoration of the mechanical output and will be tested again. 
+This step is tedious and lengthy. 
+We also burned two servos in the process due to short-wiring problems, but this also taught us the importance of electrical tape!   
+  
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/9-6.jpg" width="400" height="250">   <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/9-3.jpg" width="400" height="250">   
+</div>  
   
   
+### Fixed 
+After testing the circuit, we embed the whole device in the box set in advance. Comb all lines and fix various components. And a final pre-sealing test.   
   
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/WechatIMG574.jpeg" width="280" height="250">     <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/IMG_9653.JPG" width="280" height="250">  
+</div>  
+  
+### Final Output 
+When people walk toward the device, acoustic sensors recognize and control the proximity of flower stems to them. 
+When a person touches a branch, the pressure sensor recognizes that the plant responds, flowers bloom, and the branch wiggles. After the people leave, the flowers will return to their original position for the next interaction.
   
   
   
