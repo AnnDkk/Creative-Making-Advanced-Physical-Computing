@@ -3,8 +3,10 @@
 Final Viedo：https://youtu.be/RirvhJJkZnI
 
 ## Introduction
-
-
+Can a mechanical plant controlled by a human really be life?
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/final.jpg" width="500" height="300">
+</div>
 
 
 # WEEK 6
@@ -147,8 +149,9 @@ After testing the circuit, we embed the whole device in the box set in advance. 
 When people walk toward the device, acoustic sensors recognize and control the proximity of flower stems to them. 
 When a person touches a branch, the pressure sensor recognizes that the plant responds, flowers bloom, and the branch wiggles. After the people leave, the flowers will return to their original position for the next interaction.
   
-  
-  
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/2521670607685_.pic_hd.jpg" width="900" height="400">
+</div>
   
   
   
