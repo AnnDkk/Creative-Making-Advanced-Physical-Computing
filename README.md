@@ -72,8 +72,25 @@ We had a problem making the mechanical flowers. We don't know which flower form 
 </div>  
   
   
-  
 ## WEEK 8
+> It's been a very difficult week 
+>> Circuit testing and welding is our main work. 
+ 
+Since we had a lot of output devices, we borrowed PCA9685 from the professor to control multiple servo to work together. 
+  
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/test.png" width="400" height="350"> 
+</div>  
+  
+  
+  
+But we tried to write a lot of code and modify the circuitry in a way that didn't allow this part of the control servo to work. We asked Professor Pete about it. But the ultimate problem remains unresolved. Maybe an Arduino board controls too much equipment, maybe there is a problem in the code, etc...  
+  
+In order to better complete the project within the specified time. We redesigned the circuit diagram again. And - welding, testing. Finally, our new solution is successful!!
+<div align=center>
+<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/circuit%20model1.jpg" width="400" height="350">            <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/circuit%20model2.jpg" width="400" height="350">
+</div>  
+  
 
 ## WEEK 9
 
